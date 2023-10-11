@@ -7,10 +7,10 @@
 
 
 2. Analice los atributos y métodos de cada clase, luego, identifique las relaciones existentes entre las clases identificadas y establezca una descripción textual breve del contexto problema.
-Clase Calculadora:
+- Clase Calculadora:
 - Atributos: tiene como atributos a n1 y n2 que son numeros enteros
 - Metodos: sumar() para sumar n1 y n2, multiplicar() para multiplicar n1 y n2, y setN1(int num1) y setN2(int num2) para establecer los valores de n1 y n2, respectivamente.
-Clase CarroCompra:
+- Clase CarroCompra:
 - Atributos: tiene como atributo a productos que representa una matriz de productos con dos filas y cinco columnas. La primera fila contiene cantidades y la segunda fila contiene precios.
 - Metodos: calcularTotal() para calcular el total de la compra, subTotal(int cant, int precio) para calcular el subtotal de cada producto utilizando la clase Calculadora, y mostrarTotal() para imprimir el total de la compra.
   
