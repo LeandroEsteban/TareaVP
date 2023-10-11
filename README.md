@@ -34,3 +34,11 @@ Codigo generado de la clase Calculadora
 Codigo generado de la clase CarroCompra
   
    ![Screenshot 2023-10-11 182442](https://github.com/LeandroEsteban/TareaVP/assets/127903058/464b0336-5c22-4177-8f3b-8e507b8f6118)
+
+
+Evidencia de trabajo personal con el codigo completo
+
+![Screenshot 2023-10-11 184702](https://github.com/LeandroEsteban/TareaVP/assets/127903058/da4d8f8f-97ff-4852-a317-9b5bf8f821d9)
+
+![Screenshot 2023-10-11 184715](https://github.com/LeandroEsteban/TareaVP/assets/127903058/31516415-7aed-48f1-b4f7-32e35e5d0d8f)
+
