@@ -10,13 +10,13 @@ Clase CarroCompra: Representa a un carro de compras con una lista predefinida de
 - Metodos: calcularTotal() para calcular el total de la compra, subTotal(int cant, int precio) para calcular el subtotal de cada producto utilizando la clase Calculadora, y mostrarTotal() para imprimir el total de la compra.
 
 2. Analice los atributos y métodos de cada clase, luego, identifique las relaciones existentes entre las clases identificadas y establezca una descripción textual breve del contexto problema..
-En el ejercicio planteado vemos que en el metodo subTotal de la clase CarroCompra se utiliza el metodo multiplicar de la clase Calculadora.
+- En el ejercicio planteado vemos que en el metodo subTotal de la clase CarroCompra se utiliza el metodo multiplicar de la clase Calculadora.
 
 3. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
 ![Screenshot 2023-10-11 182332](https://github.com/LeandroEsteban/TareaVP/assets/127903058/867edd22-528c-4921-a5e4-723915c19246)
 
 4. Genere un código fuente Java a partir de su modelo de clases.
-Codigo generado de la clase Calculadora
+- Codigo generado de la clase Calculadora
 ![Screenshot 2023-10-11 182422](https://github.com/LeandroEsteban/TareaVP/assets/127903058/79805c5b-8e50-44f3-a477-0edee9f24e53)
-Codigo generado de la clase CarroCompra
+- Codigo generado de la clase CarroCompra
 ![Screenshot 2023-10-11 182442](https://github.com/LeandroEsteban/TareaVP/assets/127903058/464b0336-5c22-4177-8f3b-8e507b8f6118)
