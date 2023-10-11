@@ -1,4 +1,4 @@
-# TareaVP
+# Evidencia07: Análisis de código & Dependencia
 1. Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
 
 **Clase Calculadora:** Es la representacion simple de una calculadora que realiza 2 operaciones basicas, sumar y multiplicar.
