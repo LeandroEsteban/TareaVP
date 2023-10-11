@@ -1,8 +1,8 @@
 # TareaVP
 1. Identifique las clases y lo que éstas representan. Luego, establezca una descripción textual breve del contexto problema.
 
-Clase Calculadora: Es la representacion simple de una calculadora que realiza 2 operaciones basicas, sumar y multiplicar.
-Clase CarroCompra: Representa a un carro de compras con una lista predefinida de productos, cada uno con una cantidad y un precio. Permite calcular el total de la compra y mostrarlo.
+- Clase Calculadora: Es la representacion simple de una calculadora que realiza 2 operaciones basicas, sumar y multiplicar.
+- Clase CarroCompra: Representa a un carro de compras con una lista predefinida de productos, cada uno con una cantidad y un precio. Permite calcular el total de la compra y mostrarlo.
 - Contexto problema: Dado el codigo propuesto es posible que se trate de una tienda que venda productos, la clase Calculadora se encargar de hacer las operaciones basicas mientras que la clase CarroCompra se encarga de gestionar los productos del usuario y mostrar el costo.
 
 
