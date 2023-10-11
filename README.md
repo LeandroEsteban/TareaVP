@@ -16,7 +16,7 @@
 - Atributos: tiene como atributo a productos que representa una matriz de productos con dos filas y cinco columnas. La primera fila contiene cantidades y la segunda fila contiene precios.
 - Metodos: calcularTotal() para calcular el total de la compra, subTotal(int cant, int precio) para calcular el subtotal de cada producto utilizando la clase Calculadora, y mostrarTotal() para imprimir el total de la compra.
   
-- En el ejercicio planteado vemos que en el metodo subTotal de la clase CarroCompra se utiliza el metodo multiplicar de la clase Calculadora.
+En el ejercicio planteado vemos que en el metodo subTotal de la clase CarroCompra se utiliza el metodo multiplicar de la clase Calculadora.
 
 3. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
 - Diagrama de clases generado con Visual Paradigm con las respectivas 2 clases, sus atributos y metodos, vemos como hay una dependencia del metodo subTotal de la clase CarroCompra con el metodo multiplicar de la clase Calculadora
