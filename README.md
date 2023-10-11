@@ -21,6 +21,7 @@
 ***En el ejercicio planteado vemos que en el metodo subTotal de la clase CarroCompra se utiliza el metodo multiplicar de la clase Calculadora.***
 
 3. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
+
 Diagrama de clases generado con Visual Paradigm con las respectivas 2 clases, sus atributos y metodos, vemos como hay una dependencia del metodo subTotal de la clase CarroCompra con el metodo multiplicar de la clase Calculadora
   
    ![Screenshot 2023-10-11 182332](https://github.com/LeandroEsteban/TareaVP/assets/127903058/867edd22-528c-4921-a5e4-723915c19246)
